@@ -45,6 +45,6 @@ var no = 2;
 alert("input yes or no"); 
 var a = prompt("do you want to say hello?");
 var b = prompt("do you want a good point?");
-alert(yes + no);
+alert(a + b);
 
 
