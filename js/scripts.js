@@ -40,3 +40,11 @@
 // if (a > 10) {
 //     alert("за вами уже едут, готовтесь к собеседованию")
 // }
+var yes = 1; 
+var no = 2;
+alert("input yes or no"); 
+var a = prompt("do you want to say hello?");
+var b = prompt("do you want a good point?");
+alert(a + b);
+
+
