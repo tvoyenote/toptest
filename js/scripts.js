@@ -40,11 +40,25 @@
 // if (a > 10) {
 //     alert("за вами уже едут, готовтесь к собеседованию")
 // }
-var yes = 1; 
-var no = 2;
-alert("input yes or no"); 
-var a = prompt("do you want to say hello?");
-var b = prompt("do you want a good point?");
-alert(a + b);
+
+
+// var yes = 1; 
+// var no = 2;
+// alert("input yes or no"); 
+// var a = prompt("do you want to say hello?");
+// var b = prompt("do you want a good point?");
+// alert(a + b);
+
+// var name = prompt("what is your name");
+// var message = "hi ";
+// message += name;
+// document.write(message);
+
+var beetroot = ["учитель", "студент", "студент", "Никита учиться"];
+
+alert( beetroot[0] ); 
+alert( bettroot[1] ); 
+alert( beetroot[2] ); 
+alert( beetroot[3] ); 
 
 
