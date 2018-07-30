@@ -129,3 +129,19 @@
     //     console.log =(arr [i] [0]);
         
     // }
+//     let data = [];
+//     if(localStorage.getItem("data")){
+//         data = localStorage.getItem("data");
+//     }
+//     else{
+//         localStorage.getItem("data", data);
+//     }
+//    function show(_data) {
+//        for (let i = 0; i < data.length; i++) {
+//            document.write( ${_data[i]} );
+           
+//        }
+//    }
+
+
+
