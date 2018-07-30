@@ -42,11 +42,12 @@
 // }
 
 
-// var yes = 1; 
-// var no = 2;
+
 // alert("input yes or no"); 
 // var a = prompt("do you want to say hello?");
 // var b = prompt("do you want a good point?");
+// var yes = 1; 
+// var no = 2;
 // alert(a + b);
 
 // var name = prompt("what is your name");
@@ -54,12 +55,77 @@
 // message += name;
 // document.write(message);
 
-var beetroot = ["учитель", "студент", "студент", "Никита учиться"];
-
-alert( beetroot[0] ); 
-alert( bettroot[1] ); 
-alert( beetroot[2] ); 
-alert( beetroot[3] ); 
 
 
+// var beetroot = ["учитель", "студент", "студент", "Никита учиться"];
+// alert( beetroot[0] ); 
+// alert( bettroot[1] ); 
+// alert( beetroot[2] ); 
+// alert( beetroot[3] ); 
 
+
+
+
+
+// const basicNumRow = Array.from(Array(10)).map((item, index) => index + 1);
+// const makeRow = rowNum => basicNumRow.map((colNum) => {
+//     const numStr = (rowNum * colNum).toString();
+//     const padding = Array.from(new Array(4 - numStr.length)).fill(' ').join('');
+//     return padding + numStr;
+// }).join('');
+// const makeTable = () => basicNumRow.map(rowNum => makeRow(rowNum)).join('\n');
+// console.log(makeTable());
+
+
+
+// let symbol = "p",
+//     сols = "5",
+//     rows = "10",
+//     sting = "";r
+
+ 
+
+
+
+
+// console.log("22\n22");
+
+//     let string = "";
+//     for(let index=0; index < 5; index++) { 
+//         string = string + index;
+//         console.log(index);
+//     }
+
+
+
+
+//     var matrix = [
+//         [1, 2, 3],
+//         [4, 5, 6],
+//         [7, 8, 9]
+//     ];
+
+//     alert(matrix[0][2]);
+//     alert(matrix[1][0]);
+//     alert(matrix[2][1]);
+
+
+
+//   let arr = [
+//       [1, 2, 3, 4],
+//         [5, 6, 7, 8],
+//         [9, 10, 11, 12],
+//       [13, 14, 15, 16]
+//   ]
+
+
+
+//     for (let i = 0; i < arr.length; i++) {
+//         console.log =(arr [i] [0]);
+        
+//     }
+
+    // for (let i = 0; i < arr.length; i++) {
+    //     console.log =(arr [i] [0]);
+        
+    // }
